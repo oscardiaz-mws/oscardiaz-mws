@@ -1,4 +1,10 @@
-- 👋 Hola, me llamo Oscar David Díaz Fortaleché, Arquitecto de Software en Mawesi SAS.
-- 👀 Me gusta mucho el desarrollo web, los videojuegos y la Lasagna.
-- 🌱 Tengo como meta aprender Docker, un poco de Python y a utilizar bien los pipelines de Azure.
-- 💞️ Puedo colaborar en temas relacionados con C# (tanto .NET Framework como dotnet Core, JavaScript (Angular, React), SQL (Server, Oracle y mysql).
+### Hello
+
+Greets from Colombia! 🇨🇴
+
+👋 I'm a _Full Stack developer_, I use **.NET** and **React** mostly in my projects. I love lasagna and playing video games.
+
+### More about me
+- My web page https://lechediaz.com
+- My LinkedkIn profile https://www.linkedin.com/in/oscar-david-d%C3%ADaz-fortalech%C3%A9-7b88491b3/
+- My YouTube channel https://www.youtube.com/channel/UCHqlEx1FUYMBoBPtrHgixow
